@@ -19,3 +19,6 @@ To get the data:
 2. Make sure trade-register.csv is in the same folder
 3. Open the notebooks in Jupyter or VS Code and run the cells in order.
 
+## Slide Deck 
+
+Link to the Slide Deck Presented on Nov 14, 2025: https://docs.google.com/presentation/d/1oxyUXhk_SSZhdxg_G3fDMfJhp7Kz-USpUu6aywcqKpI/edit?usp=sharing 
